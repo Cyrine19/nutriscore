@@ -1,0 +1,27 @@
+form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  label, input[type="text"], input[type="number"] {
+    font-size: 18px;
+    margin-right: 10px;
+    display: inline-block;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 18px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-size: 18px;
+    text-align: center;
+  }
+  
